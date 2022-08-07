@@ -17,4 +17,9 @@ with average is taken over the neighbors in a radius $r$.
 
 The average direction is given by $
 \textrm{atan} [ \langle sin(\theta(t) \rangle_r / \langle cos(\theta(t) \rangle_r]$ and $\Delta \theta$ is randomly chosen form the interval $[ -\eta / 2, \eta / 2]$.
+
 ![flock](https://user-images.githubusercontent.com/100057270/183273899-0e47049a-9cc5-4776-9049-3060046b2be6.svg)
+
+![flock](https://user-images.githubusercontent.com/100057270/183274109-0ce1f3a7-d66e-4c03-a637-5bb6e9357d12.gif)
+
+***
